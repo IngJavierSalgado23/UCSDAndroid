@@ -2,3 +2,5 @@ Assigment 3 for Android Java Fundamentals.
 This was done as practice to interact with the different components available it does not work as "intended". 
 The only working functionalities are the buttons which only change the current activity displayed.
 The create user button doesn't create a user, and the login button doesn't check anything. They will send you to another activity regardless of the input.
+Components used:
+TextView, Plain Text, Password, E-mail, button, image button, check box, switch, Image View, CalendarView, Search View, Space.
